@@ -1,3 +1,8 @@
 # LuizGabrielDNC.github.io
 Site de portifólio com perfil
 https://luizgabrielportifolio.netlify.app/
+
+SITE CONSTRUIDO COM HTML,CSS,BOOTSTRAP FRAMEWORK CSS
+BOM PARA ACELERAR PROCESSOS DE CRIAÇÃO DE PÁGINAS 
+USANDO SUAS CLASSES E APLICANDO ESTILOS
+OPÇÃO DE JS NO CSS 
